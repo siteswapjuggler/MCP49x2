@@ -1,0 +1,39 @@
+#######################################
+# Syntax Coloring Map For MCP49x22
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+MCP49x2	KEYWORD1
+MCP4922	KEYWORD1
+MCP4912	KEYWORD1
+MCP4902	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+trigger					KEYWORD2
+openLatch				KEYWORD2
+DACA					KEYWORD2
+DACB					KEYWORD2
+analogWrite				KEYWORD2
+writeCommandRegister	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+DAC 			LITERAL1
+BUF				LITERAL1
+GA				LITERAL1
+SDN				LITERAL1
+MCP4922		LITERAL1
+MCP4912		LITERAL1
+MCP4902		LITERAL1
